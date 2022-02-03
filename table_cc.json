@@ -1,0 +1,962 @@
+[
+ {
+   "PhonePrefix": "93",
+   "CodeName23": "AF / AFG"
+ },
+ {
+   "PhonePrefix": "355",
+   "CodeName23": "AL / ALB"
+ },
+ {
+   "PhonePrefix": "213",
+   "CodeName23": "DZ / DZA"
+ },
+ {
+   "PhonePrefix": "1-684",
+   "CodeName23": "AS / ASM"
+ },
+ {
+   "PhonePrefix": "376",
+   "CodeName23": "AD / AND"
+ },
+ {
+   "PhonePrefix": "244",
+   "CodeName23": "AO / AGO"
+ },
+ {
+   "PhonePrefix": "1-264",
+   "CodeName23": "AI / AIA"
+ },
+ {
+   "PhonePrefix": "672",
+   "CodeName23": "AQ / ATA"
+ },
+ {
+   "PhonePrefix": "1-268",
+   "CodeName23": "AG / ATG"
+ },
+ {
+   "PhonePrefix": "54",
+   "CodeName23": "AR / ARG"
+ },
+ {
+   "PhonePrefix": "374",
+   "CodeName23": "AM / ARM"
+ },
+ {
+   "PhonePrefix": "297",
+   "CodeName23": "AW / ABW"
+ },
+ {
+   "PhonePrefix": "61",
+   "CodeName23": "AU / AUS"
+ },
+ {
+   "PhonePrefix": "43",
+   "CodeName23": "AT / AUT"
+ },
+ {
+   "PhonePrefix": "994",
+   "CodeName23": "AZ / AZE"
+ },
+ {
+   "PhonePrefix": "1-242",
+   "CodeName23": "BS / BHS"
+ },
+ {
+   "PhonePrefix": "973",
+   "CodeName23": "BH / BHR"
+ },
+ {
+   "PhonePrefix": "880",
+   "CodeName23": "BD / BGD"
+ },
+ {
+   "PhonePrefix": "1-246",
+   "CodeName23": "BB / BRB"
+ },
+ {
+   "PhonePrefix": "375",
+   "CodeName23": "BY / BLR"
+ },
+ {
+   "PhonePrefix": "32",
+   "CodeName23": "BE / BEL"
+ },
+ {
+   "PhonePrefix": "501",
+   "CodeName23": "BZ / BLZ"
+ },
+ {
+   "PhonePrefix": "229",
+   "CodeName23": "BJ / BEN"
+ },
+ {
+   "PhonePrefix": "1-441",
+   "CodeName23": "BM / BMU"
+ },
+ {
+   "PhonePrefix": "975",
+   "CodeName23": "BT / BTN"
+ },
+ {
+   "PhonePrefix": "591",
+   "CodeName23": "BO / BOL"
+ },
+ {
+   "PhonePrefix": "387",
+   "CodeName23": "BA / BIH"
+ },
+ {
+   "PhonePrefix": "267",
+   "CodeName23": "BW / BWA"
+ },
+ {
+   "PhonePrefix": "55",
+   "CodeName23": "BR / BRA"
+ },
+ {
+   "PhonePrefix": "246",
+   "CodeName23": "IO / IOT"
+ },
+ {
+   "PhonePrefix": "1-284",
+   "CodeName23": "VG / VGB"
+ },
+ {
+   "PhonePrefix": "673",
+   "CodeName23": "BN / BRN"
+ },
+ {
+   "PhonePrefix": "359",
+   "CodeName23": "BG / BGR"
+ },
+ {
+   "PhonePrefix": "226",
+   "CodeName23": "BF / BFA"
+ },
+ {
+   "PhonePrefix": "95",
+   "CodeName23": "MM / MMR"
+ },
+ {
+   "PhonePrefix": "257",
+   "CodeName23": "BI / BDI"
+ },
+ {
+   "PhonePrefix": "855",
+   "CodeName23": "KH / KHM"
+ },
+ {
+   "PhonePrefix": "237",
+   "CodeName23": "CM / CMR"
+ },
+ {
+   "PhonePrefix": "1",
+   "CodeName23": "CA / CAN"
+ },
+ {
+   "PhonePrefix": "238",
+   "CodeName23": "CV / CPV"
+ },
+ {
+   "PhonePrefix": "1-345",
+   "CodeName23": "KY / CYM"
+ },
+ {
+   "PhonePrefix": "236",
+   "CodeName23": "CF / CAF"
+ },
+ {
+   "PhonePrefix": "235",
+   "CodeName23": "TD / TCD"
+ },
+ {
+   "PhonePrefix": "56",
+   "CodeName23": "CL / CHL"
+ },
+ {
+   "PhonePrefix": "86",
+   "CodeName23": "CN / CHN"
+ },
+ {
+   "PhonePrefix": "61",
+   "CodeName23": "CX / CXR"
+ },
+ {
+   "PhonePrefix": "61",
+   "CodeName23": "CC / CCK"
+ },
+ {
+   "PhonePrefix": "57",
+   "CodeName23": "CO / COL"
+ },
+ {
+   "PhonePrefix": "269",
+   "CodeName23": "KM / COM"
+ },
+ {
+   "PhonePrefix": "242",
+   "CodeName23": "CG / COG"
+ },
+ {
+   "PhonePrefix": "243",
+   "CodeName23": "CD / COD"
+ },
+ {
+   "PhonePrefix": "682",
+   "CodeName23": "CK / COK"
+ },
+ {
+   "PhonePrefix": "506",
+   "CodeName23": "CR / CRI"
+ },
+ {
+   "PhonePrefix": "385",
+   "CodeName23": "HR / HRV"
+ },
+ {
+   "PhonePrefix": "53",
+   "CodeName23": "CU / CUB"
+ },
+ {
+   "PhonePrefix": "599",
+   "CodeName23": "CW / CUW"
+ },
+ {
+   "PhonePrefix": "357",
+   "CodeName23": "CY / CYP"
+ },
+ {
+   "PhonePrefix": "420",
+   "CodeName23": "CZ / CZE"
+ },
+ {
+   "PhonePrefix": "45",
+   "CodeName23": "DK / DNK"
+ },
+ {
+   "PhonePrefix": "253",
+   "CodeName23": "DJ / DJI"
+ },
+ {
+   "PhonePrefix": "1-767",
+   "CodeName23": "DM / DMA"
+ },
+ {
+   "PhonePrefix": "1-809, 1-829, 1-849",
+   "CodeName23": "DO / DOM"
+ },
+ {
+   "PhonePrefix": "670",
+   "CodeName23": "TL / TLS"
+ },
+ {
+   "PhonePrefix": "593",
+   "CodeName23": "EC / ECU"
+ },
+ {
+   "PhonePrefix": "20",
+   "CodeName23": "EG / EGY"
+ },
+ {
+   "PhonePrefix": "503",
+   "CodeName23": "SV / SLV"
+ },
+ {
+   "PhonePrefix": "240",
+   "CodeName23": "GQ / GNQ"
+ },
+ {
+   "PhonePrefix": "291",
+   "CodeName23": "ER / ERI"
+ },
+ {
+   "PhonePrefix": "372",
+   "CodeName23": "EE / EST"
+ },
+ {
+   "PhonePrefix": "251",
+   "CodeName23": "ET / ETH"
+ },
+ {
+   "PhonePrefix": "500",
+   "CodeName23": "FK / FLK"
+ },
+ {
+   "PhonePrefix": "298",
+   "CodeName23": "FO / FRO"
+ },
+ {
+   "PhonePrefix": "679",
+   "CodeName23": "FJ / FJI"
+ },
+ {
+   "PhonePrefix": "358",
+   "CodeName23": "FI / FIN"
+ },
+ {
+   "PhonePrefix": "33",
+   "CodeName23": "FR / FRA"
+ },
+ {
+   "PhonePrefix": "689",
+   "CodeName23": "PF / PYF"
+ },
+ {
+   "PhonePrefix": "241",
+   "CodeName23": "GA / GAB"
+ },
+ {
+   "PhonePrefix": "220",
+   "CodeName23": "GM / GMB"
+ },
+ {
+   "PhonePrefix": "995",
+   "CodeName23": "GE / GEO"
+ },
+ {
+   "PhonePrefix": "49",
+   "CodeName23": "DE / DEU"
+ },
+ {
+   "PhonePrefix": "233",
+   "CodeName23": "GH / GHA"
+ },
+ {
+   "PhonePrefix": "350",
+   "CodeName23": "GI / GIB"
+ },
+ {
+   "PhonePrefix": "30",
+   "CodeName23": "GR / GRC"
+ },
+ {
+   "PhonePrefix": "299",
+   "CodeName23": "GL / GRL"
+ },
+ {
+   "PhonePrefix": "1-473",
+   "CodeName23": "GD / GRD"
+ },
+ {
+   "PhonePrefix": "1-671",
+   "CodeName23": "GU / GUM"
+ },
+ {
+   "PhonePrefix": "502",
+   "CodeName23": "GT / GTM"
+ },
+ {
+   "PhonePrefix": "44-1481",
+   "CodeName23": "GG / GGY"
+ },
+ {
+   "PhonePrefix": "224",
+   "CodeName23": "GN / GIN"
+ },
+ {
+   "PhonePrefix": "245",
+   "CodeName23": "GW / GNB"
+ },
+ {
+   "PhonePrefix": "592",
+   "CodeName23": "GY / GUY"
+ },
+ {
+   "PhonePrefix": "509",
+   "CodeName23": "HT / HTI"
+ },
+ {
+   "PhonePrefix": "504",
+   "CodeName23": "HN / HND"
+ },
+ {
+   "PhonePrefix": "852",
+   "CodeName23": "HK / HKG"
+ },
+ {
+   "PhonePrefix": "36",
+   "CodeName23": "HU / HUN"
+ },
+ {
+   "PhonePrefix": "354",
+   "CodeName23": "IS / ISL"
+ },
+ {
+   "PhonePrefix": "91",
+   "CodeName23": "IN / IND"
+ },
+ {
+   "PhonePrefix": "62",
+   "CodeName23": "ID / IDN"
+ },
+ {
+   "PhonePrefix": "98",
+   "CodeName23": "IR / IRN"
+ },
+ {
+   "PhonePrefix": "964",
+   "CodeName23": "IQ / IRQ"
+ },
+ {
+   "PhonePrefix": "353",
+   "CodeName23": "IE / IRL"
+ },
+ {
+   "PhonePrefix": "44-1624",
+   "CodeName23": "IM / IMN"
+ },
+ {
+   "PhonePrefix": "972",
+   "CodeName23": "IL / ISR"
+ },
+ {
+   "PhonePrefix": "39",
+   "CodeName23": "IT / ITA"
+ },
+ {
+   "PhonePrefix": "225",
+   "CodeName23": "CI / CIV"
+ },
+ {
+   "PhonePrefix": "1-876",
+   "CodeName23": "JM / JAM"
+ },
+ {
+   "PhonePrefix": "81",
+   "CodeName23": "JP / JPN"
+ },
+ {
+   "PhonePrefix": "44-1534",
+   "CodeName23": "JE / JEY"
+ },
+ {
+   "PhonePrefix": "962",
+   "CodeName23": "JO / JOR"
+ },
+ {
+   "PhonePrefix": "7",
+   "CodeName23": "KZ / KAZ"
+ },
+ {
+   "PhonePrefix": "254",
+   "CodeName23": "KE / KEN"
+ },
+ {
+   "PhonePrefix": "686",
+   "CodeName23": "KI / KIR"
+ },
+ {
+   "PhonePrefix": "383",
+   "CodeName23": "XK / XKX"
+ },
+ {
+   "PhonePrefix": "965",
+   "CodeName23": "KW / KWT"
+ },
+ {
+   "PhonePrefix": "996",
+   "CodeName23": "KG / KGZ"
+ },
+ {
+   "PhonePrefix": "856",
+   "CodeName23": "LA / LAO"
+ },
+ {
+   "PhonePrefix": "371",
+   "CodeName23": "LV / LVA"
+ },
+ {
+   "PhonePrefix": "961",
+   "CodeName23": "LB / LBN"
+ },
+ {
+   "PhonePrefix": "266",
+   "CodeName23": "LS / LSO"
+ },
+ {
+   "PhonePrefix": "231",
+   "CodeName23": "LR / LBR"
+ },
+ {
+   "PhonePrefix": "218",
+   "CodeName23": "LY / LBY"
+ },
+ {
+   "PhonePrefix": "423",
+   "CodeName23": "LI / LIE"
+ },
+ {
+   "PhonePrefix": "370",
+   "CodeName23": "LT / LTU"
+ },
+ {
+   "PhonePrefix": "352",
+   "CodeName23": "LU / LUX"
+ },
+ {
+   "PhonePrefix": "853",
+   "CodeName23": "MO / MAC"
+ },
+ {
+   "PhonePrefix": "389",
+   "CodeName23": "MK / MKD"
+ },
+ {
+   "PhonePrefix": "261",
+   "CodeName23": "MG / MDG"
+ },
+ {
+   "PhonePrefix": "265",
+   "CodeName23": "MW / MWI"
+ },
+ {
+   "PhonePrefix": "60",
+   "CodeName23": "MY / MYS"
+ },
+ {
+   "PhonePrefix": "960",
+   "CodeName23": "MV / MDV"
+ },
+ {
+   "PhonePrefix": "223",
+   "CodeName23": "ML / MLI"
+ },
+ {
+   "PhonePrefix": "356",
+   "CodeName23": "MT / MLT"
+ },
+ {
+   "PhonePrefix": "692",
+   "CodeName23": "MH / MHL"
+ },
+ {
+   "PhonePrefix": "222",
+   "CodeName23": "MR / MRT"
+ },
+ {
+   "PhonePrefix": "230",
+   "CodeName23": "MU / MUS"
+ },
+ {
+   "PhonePrefix": "262",
+   "CodeName23": "YT / MYT"
+ },
+ {
+   "PhonePrefix": "52",
+   "CodeName23": "MX / MEX"
+ },
+ {
+   "PhonePrefix": "691",
+   "CodeName23": "FM / FSM"
+ },
+ {
+   "PhonePrefix": "373",
+   "CodeName23": "MD / MDA"
+ },
+ {
+   "PhonePrefix": "377",
+   "CodeName23": "MC / MCO"
+ },
+ {
+   "PhonePrefix": "976",
+   "CodeName23": "MN / MNG"
+ },
+ {
+   "PhonePrefix": "382",
+   "CodeName23": "ME / MNE"
+ },
+ {
+   "PhonePrefix": "1-664",
+   "CodeName23": "MS / MSR"
+ },
+ {
+   "PhonePrefix": "212",
+   "CodeName23": "MA / MAR"
+ },
+ {
+   "PhonePrefix": "258",
+   "CodeName23": "MZ / MOZ"
+ },
+ {
+   "PhonePrefix": "264",
+   "CodeName23": "NA / NAM"
+ },
+ {
+   "PhonePrefix": "674",
+   "CodeName23": "NR / NRU"
+ },
+ {
+   "PhonePrefix": "977",
+   "CodeName23": "NP / NPL"
+ },
+ {
+   "PhonePrefix": "31",
+   "CodeName23": "NL / NLD"
+ },
+ {
+   "PhonePrefix": "599",
+   "CodeName23": "AN / ANT"
+ },
+ {
+   "PhonePrefix": "687",
+   "CodeName23": "NC / NCL"
+ },
+ {
+   "PhonePrefix": "64",
+   "CodeName23": "NZ / NZL"
+ },
+ {
+   "PhonePrefix": "505",
+   "CodeName23": "NI / NIC"
+ },
+ {
+   "PhonePrefix": "227",
+   "CodeName23": "NE / NER"
+ },
+ {
+   "PhonePrefix": "234",
+   "CodeName23": "NG / NGA"
+ },
+ {
+   "PhonePrefix": "683",
+   "CodeName23": "NU / NIU"
+ },
+ {
+   "PhonePrefix": "1-670",
+   "CodeName23": "MP / MNP"
+ },
+ {
+   "PhonePrefix": "850",
+   "CodeName23": "KP / PRK"
+ },
+ {
+   "PhonePrefix": "47",
+   "CodeName23": "NO / NOR"
+ },
+ {
+   "PhonePrefix": "968",
+   "CodeName23": "OM / OMN"
+ },
+ {
+   "PhonePrefix": "92",
+   "CodeName23": "PK / PAK"
+ },
+ {
+   "PhonePrefix": "680",
+   "CodeName23": "PW / PLW"
+ },
+ {
+   "PhonePrefix": "970",
+   "CodeName23": "PS / PSE"
+ },
+ {
+   "PhonePrefix": "507",
+   "CodeName23": "PA / PAN"
+ },
+ {
+   "PhonePrefix": "675",
+   "CodeName23": "PG / PNG"
+ },
+ {
+   "PhonePrefix": "595",
+   "CodeName23": "PY / PRY"
+ },
+ {
+   "PhonePrefix": "51",
+   "CodeName23": "PE / PER"
+ },
+ {
+   "PhonePrefix": "63",
+   "CodeName23": "PH / PHL"
+ },
+ {
+   "PhonePrefix": "64",
+   "CodeName23": "PN / PCN"
+ },
+ {
+   "PhonePrefix": "48",
+   "CodeName23": "PL / POL"
+ },
+ {
+   "PhonePrefix": "351",
+   "CodeName23": "PT / PRT"
+ },
+ {
+   "PhonePrefix": "1-787, 1-939",
+   "CodeName23": "PR / PRI"
+ },
+ {
+   "PhonePrefix": "974",
+   "CodeName23": "QA / QAT"
+ },
+ {
+   "PhonePrefix": "262",
+   "CodeName23": "RE / REU"
+ },
+ {
+   "PhonePrefix": "40",
+   "CodeName23": "RO / ROU"
+ },
+ {
+   "PhonePrefix": "7",
+   "CodeName23": "RU / RUS"
+ },
+ {
+   "PhonePrefix": "250",
+   "CodeName23": "RW / RWA"
+ },
+ {
+   "PhonePrefix": "590",
+   "CodeName23": "BL / BLM"
+ },
+ {
+   "PhonePrefix": "685",
+   "CodeName23": "WS / WSM"
+ },
+ {
+   "PhonePrefix": "378",
+   "CodeName23": "SM / SMR"
+ },
+ {
+   "PhonePrefix": "239",
+   "CodeName23": "ST / STP"
+ },
+ {
+   "PhonePrefix": "966",
+   "CodeName23": "SA / SAU"
+ },
+ {
+   "PhonePrefix": "221",
+   "CodeName23": "SN / SEN"
+ },
+ {
+   "PhonePrefix": "381",
+   "CodeName23": "RS / SRB"
+ },
+ {
+   "PhonePrefix": "248",
+   "CodeName23": "SC / SYC"
+ },
+ {
+   "PhonePrefix": "232",
+   "CodeName23": "SL / SLE"
+ },
+ {
+   "PhonePrefix": "65",
+   "CodeName23": "SG / SGP"
+ },
+ {
+   "PhonePrefix": "1-721",
+   "CodeName23": "SX / SXM"
+ },
+ {
+   "PhonePrefix": "421",
+   "CodeName23": "SK / SVK"
+ },
+ {
+   "PhonePrefix": "386",
+   "CodeName23": "SI / SVN"
+ },
+ {
+   "PhonePrefix": "677",
+   "CodeName23": "SB / SLB"
+ },
+ {
+   "PhonePrefix": "252",
+   "CodeName23": "SO / SOM"
+ },
+ {
+   "PhonePrefix": "27",
+   "CodeName23": "ZA / ZAF"
+ },
+ {
+   "PhonePrefix": "82",
+   "CodeName23": "KR / KOR"
+ },
+ {
+   "PhonePrefix": "211",
+   "CodeName23": "SS / SSD"
+ },
+ {
+   "PhonePrefix": "34",
+   "CodeName23": "ES / ESP"
+ },
+ {
+   "PhonePrefix": "94",
+   "CodeName23": "LK / LKA"
+ },
+ {
+   "PhonePrefix": "290",
+   "CodeName23": "SH / SHN"
+ },
+ {
+   "PhonePrefix": "1-869",
+   "CodeName23": "KN / KNA"
+ },
+ {
+   "PhonePrefix": "1-758",
+   "CodeName23": "LC / LCA"
+ },
+ {
+   "PhonePrefix": "590",
+   "CodeName23": "MF / MAF"
+ },
+ {
+   "PhonePrefix": "508",
+   "CodeName23": "PM / SPM"
+ },
+ {
+   "PhonePrefix": "1-784",
+   "CodeName23": "VC / VCT"
+ },
+ {
+   "PhonePrefix": "249",
+   "CodeName23": "SD / SDN"
+ },
+ {
+   "PhonePrefix": "597",
+   "CodeName23": "SR / SUR"
+ },
+ {
+   "PhonePrefix": "47",
+   "CodeName23": "SJ / SJM"
+ },
+ {
+   "PhonePrefix": "268",
+   "CodeName23": "SZ / SWZ"
+ },
+ {
+   "PhonePrefix": "46",
+   "CodeName23": "SE / SWE"
+ },
+ {
+   "PhonePrefix": "41",
+   "CodeName23": "CH / CHE"
+ },
+ {
+   "PhonePrefix": "963",
+   "CodeName23": "SY / SYR"
+ },
+ {
+   "PhonePrefix": "886",
+   "CodeName23": "TW / TWN"
+ },
+ {
+   "PhonePrefix": "992",
+   "CodeName23": "TJ / TJK"
+ },
+ {
+   "PhonePrefix": "255",
+   "CodeName23": "TZ / TZA"
+ },
+ {
+   "PhonePrefix": "66",
+   "CodeName23": "TH / THA"
+ },
+ {
+   "PhonePrefix": "228",
+   "CodeName23": "TG / TGO"
+ },
+ {
+   "PhonePrefix": "690",
+   "CodeName23": "TK / TKL"
+ },
+ {
+   "PhonePrefix": "676",
+   "CodeName23": "TO / TON"
+ },
+ {
+   "PhonePrefix": "1-868",
+   "CodeName23": "TT / TTO"
+ },
+ {
+   "PhonePrefix": "216",
+   "CodeName23": "TN / TUN"
+ },
+ {
+   "PhonePrefix": "90",
+   "CodeName23": "TR / TUR"
+ },
+ {
+   "PhonePrefix": "993",
+   "CodeName23": "TM / TKM"
+ },
+ {
+   "PhonePrefix": "1-649",
+   "CodeName23": "TC / TCA"
+ },
+ {
+   "PhonePrefix": "688",
+   "CodeName23": "TV / TUV"
+ },
+ {
+   "PhonePrefix": "971",
+   "CodeName23": "AE / ARE"
+ },
+ {
+   "PhonePrefix": "256",
+   "CodeName23": "UG / UGA"
+ },
+ {
+   "PhonePrefix": "44",
+   "CodeName23": "GB / GBR"
+ },
+ {
+   "PhonePrefix": "380",
+   "CodeName23": "UA / UKR"
+ },
+ {
+   "PhonePrefix": "598",
+   "CodeName23": "UY / URY"
+ },
+ {
+   "PhonePrefix": "1",
+   "CodeName23": "US / USA"
+ },
+ {
+   "PhonePrefix": "998",
+   "CodeName23": "UZ / UZB"
+ },
+ {
+   "PhonePrefix": "678",
+   "CodeName23": "VU / VUT"
+ },
+ {
+   "PhonePrefix": "379",
+   "CodeName23": "VA / VAT"
+ },
+ {
+   "PhonePrefix": "58",
+   "CodeName23": "VE / VEN"
+ },
+ {
+   "PhonePrefix": "84",
+   "CodeName23": "VN / VNM"
+ },
+ {
+   "PhonePrefix": "1-340",
+   "CodeName23": "VI / VIR"
+ },
+ {
+   "PhonePrefix": "681",
+   "CodeName23": "WF / WLF"
+ },
+ {
+   "PhonePrefix": "212",
+   "CodeName23": "EH / ESH"
+ },
+ {
+   "PhonePrefix": "967",
+   "CodeName23": "YE / YEM"
+ },
+ {
+   "PhonePrefix": "260",
+   "CodeName23": "ZM / ZMB"
+ },
+ {
+   "PhonePrefix": "263",
+   "CodeName23": "ZW / ZWE"
+ }
+]
